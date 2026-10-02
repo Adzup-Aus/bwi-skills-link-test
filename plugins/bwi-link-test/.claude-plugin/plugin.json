@@ -1,0 +1,8 @@
+{
+  "name": "bwi-link-test",
+  "displayName": "BWI Link Test",
+  "version": "1.0.0",
+  "description": "Dummy skill that replies with its version number. Used only to test installing and updating by link. Safe to remove.",
+  "author": { "name": "Build With Insight" },
+  "license": "UNLICENSED"
+}

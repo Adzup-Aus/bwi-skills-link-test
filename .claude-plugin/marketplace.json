@@ -1,0 +1,12 @@
+{
+  "name": "bwi-skills-link-test",
+  "description": "Temporary test of installing and updating a skill by link. Contains a dummy skill only.",
+  "owner": { "name": "Build With Insight" },
+  "plugins": [
+    {
+      "name": "bwi-link-test",
+      "source": "./plugins/bwi-link-test",
+      "description": "Dummy skill that replies with its version number. Safe to remove."
+    }
+  ]
+}
